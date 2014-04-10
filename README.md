@@ -1,4 +1,4 @@
 SimpleDecoder
 =============
 
-Simple Decoder 
+Simple Decoder challenge found in /r/dailyprogrammer
